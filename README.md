@@ -1,2 +1,4 @@
 # multiFunctionalProgram01
-a c++ programm to do some basic function for begginer  
+A C++ program to do some basic function for begginer  .
+It is made for college project using basic C++ functions.
+Code is well organized and easy to understand. 
